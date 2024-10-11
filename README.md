@@ -12,11 +12,14 @@ For more advanced data analytics projects that utilize DuckDB, check out:
 - [MTA Subway Origin-Destination Ridership Estimate for 2023](https://github.com/mebauer/mta-data)
 
 # 2. Notebook
-- Explore the beginner's notebook: [duckdb-python-basics.ipynb](https://github.com/mebauer/duckdb-python-basics/blob/main/duckdb-python-basics.ipynb).
-- A sample data analysis project examining Green Infrastructure projects in NYC: [data-analysis.ipynb](https://github.com/mebauer/duckdb-python-basics/blob/main/data-analysis.ipynb).
+- Explore the beginner's notebook: [duckdb-python-basics.ipynb](https://github.com/mebauer/duckdb-python-basics/blob/main/duckdb-python-basics.ipynb)
+- A sample data analysis project examining Green Infrastructure projects in NYC: [data-analysis.ipynb](https://github.com/mebauer/duckdb-python-basics/blob/main/data-analysis.ipynb)
+- Download data: [data-download.ipynb](https://github.com/mebauer/duckdb-python-basics/blob/main/data-download.ipynb)
 
 # 3. Data
-- NYC DEP Green Infrastructure Data: https://data.cityofnewyork.us/Environment/DEP-Green-Infrastructure/spjh-pz7h
+NYC DEP Green Infrastructure Data: https://data.cityofnewyork.us/Environment/DEP-Green-Infrastructure/spjh-pz7h
+
+>This dataset contains the locations and detailed information of green infrastructure practices in NYC neighborhoods built primarily through NYC Green Infrastructure Program initiatives. Green infrastructure (GI) collects stormwater from streets, sidewalks, and other hard surfaces before it can enter the sewer system or cause local flooding. The GI practice data contained in this dataset includes the location, program area, status, and type of GI.
 
 # 4. Additional Resources
 - Official DuckDB Documentation: https://duckdb.org/
